@@ -14,10 +14,10 @@ This is the single most important factor when buying a used diesel truck in this
 
 | Truck | Years | Pump | Risk |
 |---|---|---|---|
-| Ram 3500 Cummins (Standard Output) | All years (2007.5–2024) | CP3 | ✅ Low — CP3 is robust |
-| Ram 3500 Cummins (High Output) | **2019–2020 only** | CP4.2 | 🔴 High — recalled; remedy was CP3 replacement. Verify recall complete on any 2019–2020. |
-| Ram 3500 Cummins (High Output) | **2021–2024** | CP3 | ✅ Low — Ram reverted ALL Cummins (SO and HO) back to CP3 for 2021+ |
-| Ram 3500 Cummins (all) | **2025+** | CP8 | ⚠️ New — Bosch CP8 pump; less field history. Too early to rate. |
+| Ram 3500 Cummins (SO + HO) | 2007.5–2018 | CP3 | ✅ Low — all Cummins used CP3 through entire 4th gen |
+| Ram 3500 Cummins (SO + HO) | **2019–2020** | **CP4.2** | 🔴 High — **both SO and HO** had CP4 (different part numbers, same failure risk). Recall issued; remedy was CP3 replacement. Verify on any 2019–2020. |
+| Ram 3500 Cummins (SO + HO) | **2021–2024** | CP3 | ✅ Low — Ram reverted ALL Cummins back to CP3 for 2021+ |
+| Ram 3500 Cummins (SO + HO) | **2025+** | CP8 | ⚠️ New Bosch CP8 pump; limited field history |
 | Ford F-350 Power Stroke 6.7L | **2011–2019** | CP4.2 | 🔴 High — class action settlement filed |
 | Ford F-350 Power Stroke 6.7L | 2020–present | CP4.2 | 🔴 High — still CP4, Ford added fuel filter improvements |
 | Chevy/GMC Duramax LML | **2011–2016** | **CP4.2** | 🔴 High — same risk as Ford; CP3 conversion strongly advised |
@@ -25,7 +25,7 @@ This is the single most important factor when buying a used diesel truck in this
 
 **What CP4 failure means:** The CP4.2 Bosch pump runs on diesel fuel for lubrication. US diesel is low-lubricity compared to European diesel the pump was designed for. When the pump fails, metal shavings contaminate the entire fuel system — injectors, lines, fuel rail, everything. Remediation cost: $8,000–$20,000+. Not covered under most warranties once the factory warranty expires.
 
-**Bottom line:** If you buy a used Ram HO (2019+), any used Ford Super Duty diesel, or a used Chevy/GMC with the LML Duramax (2011–2016), a CP4 delete or fuel additive regimen is not optional — it's insurance. The safe Duramax buy is **L5P (2017+) only**. Chevy/GMC L5P owners don't have this concern — LML owners do.
+**Bottom line:** If you buy any used Ram from 2019–2020 (SO or HO), any used Ford Super Duty diesel, or a used Chevy/GMC with the LML Duramax (2011–2016), CP4 risk is present. The safe used buys are: Ram (2007.5–2018 OR 2021–2024), Chevy/GMC L5P (2017+). The safe Duramax is L5P only — LML is CP4 same as Ford.
 
 ---
 
@@ -53,7 +53,7 @@ This is the single most important factor when buying a used diesel truck in this
 | **Power (peak)** | 420 hp (HO) / 370 hp (SO) | 475 hp | 445 hp |
 | **Torque (peak)** | 1,075 lb-ft (HO) / 850 lb-ft (SO) | 1,050 lb-ft | 910 lb-ft |
 | **Torque delivery** | Low RPM — exceptional | Low-to-mid RPM — strong | Mid RPM — smooth |
-| **Injection pump** | CP3 (SO) / CP4 (HO 2019+) | CP4 (all) | CP4 (LML 2011–2016) / CP3 (L5P 2017+) |
+| **Injection pump** | CP3 (2007.5–2018) / CP4 (SO+HO 2019–2020) / CP3 (2021–2024) / CP8 (2025+) | CP4 (all years) | CP4 (LML 2011–2016) / CP3 (L5P 2017+) |
 | **EGR cooler issues** | Moderate | High (2011–2014 especially) | Low |
 | **Long-term reputation** | Excellent — Cummins is legendary | Strong after 2015 fixes | Excellent |
 

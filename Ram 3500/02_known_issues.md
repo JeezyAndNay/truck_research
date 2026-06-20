@@ -114,17 +114,17 @@ The 5th-gen Ram 3500 (2013–2018 body) was well-developed by this point. Core i
 
 2019 brought the 6th-gen Ram 3500 with a completely new body style and interior. Also introduced: the High Output Cummins — and with it, the CP4.2 injection pump.
 
-### 🔴 CP4.2 High-Pressure Fuel Pump — High Output Models Only
-- **Affected:** 2019–2020 Ram 3500 with High Output (HO) Cummins (1,000 lb-ft)
-- The HO Cummins uses the Bosch CP4.2 to generate 29,000+ psi rail pressure
+### 🔴 CP4.2 High-Pressure Fuel Pump — Both SO and HO
+- **Affected:** ALL 2019–2020 Ram 3500 with 6.7L Cummins — both Standard Output and High Output
+- Both SO and HO switched to the Bosch CP4.2 for 2019–2020 (different part numbers: SO uses 0445124047, HO uses 0445124039 — same pump design and failure mode)
 - The CP4.2 runs on marginal lubrication. US diesel fuel's lower sulfur content accelerates wear.
 - **Failure mode:** Metal shrapnel contaminates injectors, fuel rails, fuel lines, and fuel tank
 - **Cost of failure:** $8,000–$20,000 for complete fuel system replacement
 - **NHTSA Investigation:** Opened. Multiple class-action lawsuits filed (similar to Ford CP4 suits).
-- **Ram issued a recall (2021):** NHTSA recall 21V064 — affected 2019–2020 HO Ram 2500/3500 trucks (200,000+ vehicles). **Remedy was replacement of the CP4.2 with a CP3 pump** — not a filtration add-on. Ram replaced the whole pump.
-- **2021 and later:** Ram removed the CP4.2 from ALL Cummins trucks (SO and HO) for 2021 and reverted to CP3 across the board. 2025+ uses a new Bosch CP8 pump.
+- **Ram issued a recall:** FCA reference Y78 — covered all 2019–2020 Ram 2500/3500 with 6.7L Cummins (both SO and HO), 222,000+ vehicles. **Remedy was replacement of the CP4.2 with a CP3 pump.** Ram replaced the entire pump, not a filtration add-on.
+- **2021 and later:** Ram removed the CP4.2 from ALL Cummins trucks (SO and HO) and reverted to CP3 across the board. 2025+ uses the new Bosch CP8 pump.
 
-> **Buying a used 2019–2020 Ram 3500 HO?** Confirm the recall (21V064) remedy has been applied at dealer — the CP4 should have been replaced with a CP3. VIN lookup at nhtsa.gov. If unverified, treat it as a CP4 truck and price accordingly. Buying 2021+ HO? It's back to CP3 — no CP4 risk.
+> **Buying a used 2019–2020 Ram 3500 (any output level)?** Both SO and HO had CP4 those years. Confirm the recall remedy has been applied — VIN lookup at nhtsa.gov. If unverified, treat it as a CP4 truck and price accordingly. **This applies to Standard Output too** — not just HO. Buying 2021+? CP3 is back on all engines.
 
 ### 🟡 First-Year 6th Gen Build Quality Issues *(2019)*
 - Some 2019s had interior fit/finish complaints and minor electronic gremlins as expected with a first-year body

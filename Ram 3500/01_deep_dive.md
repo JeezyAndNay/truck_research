@@ -27,9 +27,9 @@ Two output levels exist and the distinction matters enormously for used buying:
 
 ### 5th Generation (2019–Present) — Current Body Style
 
-**2019:** Complete body redesign. New interior, new tech, new frame. HO now uses CP4.2 pump — the most important change for used buyers to know. 68RFE paired with SO; Aisin paired with HO. Air suspension available on Limited/Laramie Longhorn. Max tow jumped significantly.
+**2019:** Complete body redesign. New interior, new tech, new frame. **Both SO and HO switched to CP4.2 pump** — the most important change for used buyers to know. 68RFE paired with SO; Aisin paired with HO. Air suspension available on Limited/Laramie Longhorn. Max tow jumped significantly.
 
-**2021:** Mild refresh. Uconnect 5 infotainment on higher trims. DEF system improvements reduced sensor/pump complaints.
+**2021:** Mild refresh. Uconnect 5 infotainment on higher trims. DEF system improvements. **Ram reverted both SO and HO back to CP3** — CP4 gone across the entire lineup.
 
 **2023:** Minor updates. 12-inch display standard on most trims.
 
@@ -39,7 +39,7 @@ Two output levels exist and the distinction matters enormously for used buying:
 
 ### 4th Generation (2013–2018) — Previous Body Style
 
-The most desirable used Ram for buyers prioritizing pump safety. All Cummins in this generation use the CP3 injection pump. Both SO and HO.
+The most desirable used Ram for buyers prioritizing pump safety. All Cummins in this generation — both SO and HO — use the CP3 injection pump. This is the generation to target on the used market.
 
 **2013:** New body. Cummins SO at **370 hp / 800 lb-ft** with 68RFE. HO introduced at 385 hp / 850 lb-ft with Aisin. Both use CP3. The 350 hp / 650 lb-ft numbers belong to the 2010–2012 generation — the 2013 redesign went up, not down.
 
@@ -76,20 +76,22 @@ The Cummins I6 is not a passenger car engine adapted for truck use — it's a co
 
 ### CP3 vs. CP4 — The Critical Distinction
 
-**CP3 (Standard Output — all years; HO before 2019):**
+**CP3 (2007.5–2018, all Cummins; 2021–2024, all Cummins):**
 - Piston-style pump, extremely robust
 - Runs on diesel fuel for lubrication — handles US low-lubricity diesel well
 - Failure mode: gradual — worn pump loses pressure; no catastrophic contamination
 - Cost to replace CP3: ~$1,500–$2,500 parts + labor
 - Owner consensus: run it forever with regular fuel filter changes
 
-**CP4.2 (High Output 2019+):**
+**CP4.2 (2019–2020 — BOTH Standard Output and High Output):**
+- Ram switched both SO and HO to CP4.2 for the 2019–2020 generation (different part numbers per output level, same pump design and same failure risk)
 - Cam-lobe style pump (Bosch design), higher pressure
 - More sensitive to fuel lubricity — designed for European diesel spec
 - US diesel is lower lubricity → premature wear → catastrophic failure
 - Failure mode: metal shavings contaminate entire fuel system
 - Cost when it fails: $8,000–$20,000 (complete fuel system remediation)
-- Mitigation: fuel lubricity additives (Stanadyne Performance Formula, Power Service Diesel Kleen), or aftermarket CP4 delete kit (replaces CP4 with CP3 — ~$2,000–$3,000 installed, but technically illegal on emissions-controlled vehicles)
+- Ram issued a recall; remedy was replacement of the CP4 with a CP3 on affected 2019–2020 trucks (FCA reference Y78). Verify completion on any 2019–2020 purchase at nhtsa.gov.
+- **2021+:** Ram reverted ALL Cummins (SO and HO) back to CP3. 2025+ uses the new Bosch CP8.
 
 ---
 
@@ -144,6 +146,6 @@ For serious dispersed camping with a travel trailer, the Ram 3500 is capable but
 
 The Ram 3500 Cummins is the torque champion and the truck with the strongest brand loyalty in this segment. The Cummins name carries real weight because it's earned — the I6 is a simpler, more service-friendly engine than the V8 alternatives, and the commercial truck lineage is not marketing.
 
-**Buy the Standard Output.** For towing a 10,000–14,000 lb travel trailer, 850 lb-ft of torque is not a limitation. The CP3 pump on the SO makes it the safest used diesel buy in the 1-ton class. The 2016–2018 SO (4th gen) is the sweet spot: CP3 pump, post-power-bump spec, and depreciation fully absorbed.
+**Target the 4th gen (2013–2018).** Both SO and HO use CP3 — no CP4 exposure. The 2016–2018 HO is the sweet spot: CP3, 900 lb-ft, Aisin transmission, depreciation fully absorbed. If you want simpler and cheaper, the SO in the same years is also CP3 with the 68RFE. Avoid 2019–2020 entirely unless recall is confirmed (both SO and HO had CP4 those years). 2021–2024 is also clean — CP3 is back.
 
 If you want the 5th gen body and features, buy a 2021+ SO. Skip the HO unless you're doing 5th wheel 30,000+ lb commercial work and need every pound of torque on offer — and even then, budget for CP4 mitigation from day one.
