@@ -7,7 +7,7 @@ The Sierra 3500 runs the same Duramax/Allison platform as the Silverado 3500, bu
 - **Max tow:** 36,000 lbs (same as Silverado 3500)
 - **Power/Torque:** 445 hp / 910 lb-ft (same as Silverado)
 - **Transmission:** Allison 10L1000 10-speed
-- **Injection pump:** CP3 (all years) ✅
+- **Injection pump:** CP4.2 (LML 2011–2016) ⚠️ / CP3 (L5P 2017+) ✅
 - **Off-road package:** AT4 (available on 3500) ✅
 
 ## Files

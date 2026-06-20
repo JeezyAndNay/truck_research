@@ -14,7 +14,7 @@ The Silverado 3500's competitive advantage is simple: the Duramax V8 uses a CP3 
 | Power | 445 hp |
 | Torque | 910 lb-ft |
 | Transmission | Allison 10L1000 10-speed |
-| Injection pump | **CP3 — all years** ✅ |
+| Injection pump | **CP4.2 (LML 2011–2016)** ⚠️ / **CP3 (L5P 2017+)** ✅ |
 | Max tow (SRW) | 36,000 lbs |
 | Max payload | 7,442 lbs (SRW) |
 
@@ -52,13 +52,17 @@ EGR system challenges on early production. Avoid for used buying unless specific
 **Displacement:** 6.6L (403 cu in)
 **Introduced:** L5P debuted 2017. Prior generation was LML.
 
-### The CP3 Advantage
+### ⚠️ Injection Pump: CP4.2 on LML (2011–2016), CP3 on L5P (2017+)
 
-Every Duramax since its introduction in 2001 uses the Bosch CP3 injection pump. This is not an accident — GM engineered around the CP4 when other manufacturers adopted it for its higher pressure capability.
+This is the most critical used-buying distinction in the Duramax lineup.
 
-**CP3 failure mode:** Gradual pressure loss. No catastrophic contamination. If a CP3 starts failing, you get symptoms (hard starts, loss of power) before it catastrophically fails. Replacement cost: ~$1,000–$2,500 installed. System does not require full remediation.
+**LML Duramax (2011–2016):** GM switched from CP3 to the Bosch CP4.2 to meet emissions requirements. The CP4.2 is the same failure-prone pump used in the Ford F-350. When it fails, metal shrapnel contaminates injectors, fuel rails, lines, and the fuel tank. Cost: **$8,000–$20,000**. CP3 conversion kits are widely available ($1,200–$2,500 installed). If buying a used LML, require a CP3 conversion or price it in.
 
-This single fact makes the Duramax the most defensible used diesel buy in the segment.
+**L5P Duramax (2017+):** GM returned to the CP3 with the L5P refresh. This is the correct fact to reference when saying "the Duramax uses CP3." It applies to 2017 and later only.
+
+**CP3 failure mode (L5P, 2017+):** Gradual pressure loss. No catastrophic contamination. Symptoms appear before failure. Replacement cost: ~$1,000–$2,500 installed. System does not require full remediation.
+
+The CP3 advantage is real — but **only from 2017 onward**. Treat 2011–2016 LML trucks the same as a Ford F-350 from a fuel system risk perspective.
 
 ### L5P vs. LML
 
@@ -110,10 +114,10 @@ For dispersed camping and forest road use with a travel trailer, the Silverado 3
 
 ## Honest Bottom Line
 
-The Silverado 3500 HD Duramax/Allison combination is the most mechanically worry-free diesel in the 1-ton class. CP3 pump — forever. Allison transmission — the commercial standard. Tow ratings slightly below Ford (36,000 vs. 40,000 lbs) but for a 10,000–14,000 lb travel trailer, that gap is academic.
+The Silverado 3500 HD Duramax/Allison combination is the most mechanically worry-free diesel in the 1-ton class — **when you buy an L5P (2017+)**. The L5P has CP3 pump, Allison transmission, and no CP4 exposure. Allison transmission — the commercial standard. Tow ratings slightly below Ford (36,000 vs. 40,000 lbs) but for a 10,000–14,000 lb travel trailer, that gap is academic.
 
 **The gap vs. GMC Sierra:** The Silverado 3500 has no AT4 package. Same Duramax/Allison hardware, but the Sierra gets the factory off-road suspension, skid plates, and AT4 branding. If off-road capability is a significant priority, go GMC AT4 on the same platform. If off-road is secondary to towing and daily driving, the Silverado is equally capable mechanically.
 
-**Best used buy:** 2017–2019 L5P Silverado 3500 with Allison 6-speed. CP3, strong engine, depreciation fully absorbed. If budget allows and you want the 10-speed Allison, 2022+ 4th gen.
+**Best used buy:** 2017–2019 L5P Silverado 3500 with Allison 6-speed. CP3, strong engine, depreciation fully absorbed. **Avoid 2011–2016 LML unless a CP3 conversion has been done.** If budget allows and you want the 10-speed Allison, 2022+ 4th gen.
 
 **New:** Excellent truck. No reservations.

@@ -7,7 +7,7 @@ The Silverado 3500 pairs the 6.6L Duramax V8 with the Allison 10-speed — the m
 - **Max tow:** 36,000 lbs (conventional)
 - **Power/Torque:** 445 hp / 910 lb-ft
 - **Transmission:** Allison 10L1000 10-speed
-- **Injection pump:** CP3 (all Duramax years) ✅
+- **Injection pump:** CP4.2 (LML 2011–2016) ⚠️ / CP3 (L5P 2017+) ✅
 - **Off-road package:** None dedicated on 3500
 
 ## Files

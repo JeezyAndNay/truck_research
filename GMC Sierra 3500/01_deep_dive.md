@@ -110,7 +110,7 @@ The AT4 Sierra 3500 is the most capable factory 1-ton for the specific use case 
 
 The GMC Sierra 3500 HD AT4 is the answer to the specific question being asked in this research: **the best 1-ton diesel for towing a travel trailer with meaningful off-road capability**.
 
-- **Duramax L5P + CP3 pump** = no CP4 anxiety, new or used
+- **Duramax L5P + CP3 pump** = no CP4 anxiety on 2017+ trucks (LML 2011–2016 had CP4 — avoid or require CP3 conversion)
 - **Allison 10L1000** = the best towing transmission in the class
 - **AT4 package** = only factory off-road option on a 1-ton GM truck
 - **DSSV dampers** = best ride quality in the segment, loaded or empty

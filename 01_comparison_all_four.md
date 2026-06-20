@@ -18,11 +18,12 @@ This is the single most important factor when buying a used diesel truck in this
 | Ram 3500 Cummins (High Output) | **2019–present** | CP4.2 | 🔴 High — CP4 failure contaminates entire fuel system |
 | Ford F-350 Power Stroke 6.7L | **2011–2019** | CP4.2 | 🔴 High — class action settlement filed |
 | Ford F-350 Power Stroke 6.7L | 2020–present | CP4.2 | 🔴 High — still CP4, Ford added fuel filter improvements |
-| Chevy/GMC Silverado/Sierra 3500 | All Duramax years | CP3 | ✅ Low — GM stayed with CP3 |
+| Chevy/GMC Duramax LML | **2011–2016** | **CP4.2** | 🔴 High — same risk as Ford; CP3 conversion strongly advised |
+| Chevy/GMC Duramax L5P | **2017–present** | CP3 | ✅ Low — CP3 returned with L5P; safest used diesel fuel system |
 
 **What CP4 failure means:** The CP4.2 Bosch pump runs on diesel fuel for lubrication. US diesel is low-lubricity compared to European diesel the pump was designed for. When the pump fails, metal shavings contaminate the entire fuel system — injectors, lines, fuel rail, everything. Remediation cost: $8,000–$20,000+. Not covered under most warranties once the factory warranty expires.
 
-**Bottom line:** If you buy a used Ram HO (2019+) or any used Ford Super Duty diesel, a CP4 delete or fuel additive regimen (Stanadyne, Power Service, etc.) is not optional — it's insurance. Many serious used buyers add a fuel lubricity additive from day one. Chevy/GMC owners don't have this concern.
+**Bottom line:** If you buy a used Ram HO (2019+), any used Ford Super Duty diesel, or a used Chevy/GMC with the LML Duramax (2011–2016), a CP4 delete or fuel additive regimen is not optional — it's insurance. The safe Duramax buy is **L5P (2017+) only**. Chevy/GMC L5P owners don't have this concern — LML owners do.
 
 ---
 
@@ -50,7 +51,7 @@ This is the single most important factor when buying a used diesel truck in this
 | **Power (peak)** | 420 hp (HO) / 370 hp (SO) | 475 hp | 445 hp |
 | **Torque (peak)** | 1,075 lb-ft (HO) / 850 lb-ft (SO) | 1,050 lb-ft | 910 lb-ft |
 | **Torque delivery** | Low RPM — exceptional | Low-to-mid RPM — strong | Mid RPM — smooth |
-| **Injection pump** | CP3 (SO) / CP4 (HO 2019+) | CP4 (all) | CP3 (all) |
+| **Injection pump** | CP3 (SO) / CP4 (HO 2019+) | CP4 (all) | CP4 (LML 2011–2016) / CP3 (L5P 2017+) |
 | **EGR cooler issues** | Moderate | High (2011–2014 especially) | Low |
 | **Long-term reputation** | Excellent — Cummins is legendary | Strong after 2015 fixes | Excellent |
 
@@ -138,7 +139,7 @@ All four trucks have similar maintenance costs when maintained properly. The dif
 |---|---|---|---|
 | **Ram 3500 Cummins** | 2013–2018 (SO, CP3), 2022+ | 2019–2021 (early CP4 HO, teething) | SO = CP3 pump; HO post-2021 has better DEF system |
 | **Ford F-350** | 2017–2019 (before 2020 refresh but EGR sorted), 2020+ | 2011–2014 (EGR cooler, early 6.7 issues) | Post-2015 EGR cooler redesign resolved the main 6.7 failure mode |
-| **Chevy Silverado 3500** | 2017–2019 (L5P), 2020+ | 2011–2016 (LML — CP4 actually appeared here too briefly) | L5P = stronger engine, better emissions system than LML |
+| **Chevy Silverado 3500** | 2017–2019 (L5P), 2022+ (new) | **2011–2016 (LML — CP4.2 pump, same risk as Ford)** | L5P = CP3 + stronger engine + better emissions. Avoid LML unless CP3 conversion done. |
 | **GMC Sierra 3500** | Same as Silverado — same platform | Same | AT4 only available 2020+ |
 
 ### New Truck Consideration (2024/2025)
@@ -158,7 +159,7 @@ All four trucks are strong new. The differentiation at new:
 |---|---|---|
 | **Best tow ratings** | Ford F-350 | 40,000 lbs; highest in class |
 | **Best engine torque** | Ram 3500 HO | 1,075 lb-ft; best low-RPM pull |
-| **Safest injection pump** | Chevy/GMC | CP3 on all Duramax trucks |
+| **Safest injection pump** | Chevy/GMC L5P (2017+) | CP3 on L5P — LML (2011–2016) has CP4, same risk as Ford |
 | **Best transmission** | Chevy/GMC | Allison — not even close |
 | **Best off-road (3500)** | GMC Sierra AT4 | Only 3500 with factory off-road package |
 | **Best used buy (safety)** | Ram 3500 SO (2013–2018) | CP3 pump, legendary Cummins, strong resale |
