@@ -121,3 +121,5 @@ The Silverado 3500 HD Duramax/Allison combination is the most mechanically worry
 **Best used buy:** 2017–2019 L5P Silverado 3500 with Allison 6-speed. CP3, strong engine, depreciation fully absorbed. **Avoid 2011–2016 LML unless a CP3 conversion has been done.** If budget allows and you want the 10-speed Allison, 2022+ 4th gen.
 
 **New:** Excellent truck. No reservations.
+
+**Mileage guideline:** Under 150K is the confident buy. 150K–200K is acceptable with documented Allison TranSynd 668 service and regular oil changes. The CP3 + Allison combination is the most forgiving of the four trucks at high mileage. Specific watch item above 150K on 2017–2018 trucks: water pump (known L5P issue in those first two years — ask if it's been replaced).

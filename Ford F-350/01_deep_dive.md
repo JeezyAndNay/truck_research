@@ -119,3 +119,5 @@ The F-350 Super Duty is the tow rating champion — 40,000 lbs puts it alone at 
 **New:** 2020+ with the 10-speed TorqShift is a genuinely excellent truck. Highest tow ratings, strong engine, good electronics. Buy with confidence — just start the additive treatment immediately.
 
 **Tremor:** If off-road capability matters, the Tremor is the strongest 1-ton factory off-road package alongside the GMC AT4. Worth the premium if you're going to use it.
+
+**Mileage guideline:** Stay under 100K without documented CP4 mitigation (FASS/AirDog + additive history at every fill-up). With documented mitigation from early in the truck's life, 100K–130K is acceptable. The CP4 tightens the mileage window relative to every other truck in this comparison — each mile is another mile of accumulated low-lubricity exposure. Lower is always better on a Ford diesel.

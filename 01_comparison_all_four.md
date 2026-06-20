@@ -184,6 +184,41 @@ All four trucks are strong new. The differentiation at new:
 
 ---
 
+## Recommended Mileage — Used Purchase
+
+Diesel engines are built for high mileage — properly maintained 1-ton diesels regularly hit 300,000–500,000 miles in commercial service. **Maintenance records matter more than the odometer.** These guidelines assume you're buying without full verified service records. With documented maintenance history, all of these ceilings move up.
+
+### Quick Reference
+
+| Truck | Sweet Spot | Acceptable (with inspection) | Approach with Caution |
+|---|---|---|---|
+| **Ram 3500 Cummins — CP3 years (2013–2018 or 2021+)** | Under 150K | 150K–250K | 250K+ |
+| **Ford F-350 Power Stroke — all years (CP4)** | Under 100K | 100K–130K | 130K+ |
+| **Chevy Silverado 3500 L5P (2017+)** | Under 150K | 150K–200K | 200K+ |
+| **GMC Sierra 3500 AT4 (2021–2023 target)** | Under 80K | 80K–150K | 150K+ |
+
+### Why Ford's Window Is Tighter
+
+The CP4 pump changes the math. Every mile on a Ford diesel is another mile the CP4 has been running against US diesel's lower lubricity. Lower mileage means less accumulated pump wear regardless of how it was treated. With documented FASS/AirDog installation and additive history from early on, the window opens up. Without that documentation, stay under 100K.
+
+### Why Ram and GM Can Go Higher
+
+The CP3 pump on 4th gen Ram Cummins and L5P Duramax is dramatically more tolerant of high mileage. The Cummins 6.7L is a commercial truck engine — fleet applications routinely run it well past 300K. A 220K mile Ram 3500 with documented oil changes and fuel filter service is a legitimate buy. The L5P/Allison combination is equally durable.
+
+**Weak link on high-mileage Ram:** The 68RFE on SO trucks. Above 200K without documented transmission service, budget for a rebuild (~$2,500–$4,000). The Aisin (HO) and Allison (GM) are significantly more resilient.
+
+### What Matters More Than Mileage
+
+In order of importance:
+
+1. **Maintenance records** — oil change frequency, fuel filter intervals, transmission service history
+2. **Towing duty cycle** — 100K miles towing 14,000 lbs weekly is not the same as 100K miles of highway commuting
+3. **CP4 mitigation history** (Ford; Ram 2019–2020) — was additive used? Was an aftermarket lift pump installed?
+4. **Pre-purchase diesel inspection** — $150–$200 at a diesel shop: compression test, scanner data, physical inspection on a lift. Worth it on any used diesel over 80K
+5. **DEF and emissions system condition** — pump and heater failures are both mileage- and age-related; check on any truck over 100K or 7+ years old
+
+---
+
 ## The Recommendation
 
 **Use case:** Towing a travel trailer in retirement. Dispersed off-grid camping on forest roads. Long-term ownership. Needs to run 150,000+ miles with minimal drama.

@@ -149,3 +149,5 @@ The Ram 3500 Cummins is the torque champion and the truck with the strongest bra
 **Target the 4th gen (2013–2018).** Both SO and HO use CP3 — no CP4 exposure. The 2016–2018 HO is the sweet spot: CP3, 900 lb-ft, Aisin transmission, depreciation fully absorbed. If you want simpler and cheaper, the SO in the same years is also CP3 with the 68RFE. Avoid 2019–2020 entirely unless recall is confirmed (both SO and HO had CP4 those years). 2021–2024 is also clean — CP3 is back.
 
 If you want the 5th gen body and features, buy a 2021+ SO. Skip the HO unless you're doing 5th wheel 30,000+ lb commercial work and need every pound of torque on offer — and even then, budget for CP4 mitigation from day one.
+
+**Mileage guideline:** Under 150K is the confident buy. 150K–250K is acceptable with documented maintenance — the Cummins I6 is a commercial engine that can legitimately reach 300K+ with proper care. The 68RFE (SO trucks) is the weakest link above 200K; budget for a rebuild if transmission service isn't documented. The Aisin (HO trucks) handles high mileage significantly better.

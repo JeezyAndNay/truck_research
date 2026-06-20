@@ -121,3 +121,5 @@ The only real tradeoff vs. the Ford F-350 is tow rating: 36,000 lbs vs. 40,000 l
 **The gap vs. Silverado:** Pay attention to trim availability. If a used Silverado 3500 at the right price has the G80 rear locker and you're not going into serious off-road terrain, it's mechanically identical at a lower price. If you want the AT4 suspension and skid plates, you're buying a Sierra 3500 — that's the only way to get it.
 
 **Best new buy in this entire comparison:** GMC Sierra 3500 AT4 Duramax. CP3 + Allison + factory off-road package. The research points here for the stated use case.
+
+**Mileage guideline:** Target 2021–2023 AT4s, which will typically be under 60K–80K miles — easy buys. If you find a higher-mileage example, apply the same L5P/Allison logic as the Silverado: 150K–200K is acceptable with documented fluid service. Additional AT4-specific check above 100K: inspect the DSSV dampers for leaks and budget for replacement at 100K–150K (~$400–$600 each).
