@@ -166,3 +166,60 @@ All four trucks are strong new. The differentiation at new:
 | **Best all-around new** | GMC Sierra 3500 AT4 | Duramax + Allison + CP3 + off-road package |
 
 > **The community says it plainly:** For pure towing performance, Ram Cummins wins on torque feel. For reliability and worry-free ownership — especially used — the Duramax/Allison combination in Chevy/GMC is the most defensible choice. The CP4 pump risk is real, documented, and expensive when it fails. If you buy a Ford or Ram HO, budget for CP4 mitigation from day one.
+
+---
+
+## Best Years to Buy Used
+
+| Truck | Buy These Years | Avoid | Reason |
+|---|---|---|---|
+| **Ram 3500 SO** | 2016–2018 (Aisin preferred) | 2019–2021 HO | CP3, mature DEF system, Aisin is bulletproof. HO years carry CP4 risk. |
+| **Ford F-350** | 2017–2019 (with CP4 filtration installed) | 2011–2014 | EGR design improved post-2015. CP4 present all years — mitigation is non-negotiable. |
+| **Chevy Silverado 3500** | 2017–2019 L5P | 2011–2016 LML | CP3 returned in 2017. Avoid LML unless CP3 conversion is already done. |
+| **GMC Sierra 3500** | 2021–2023 AT4 | 2011–2016 LML | AT4 only exists from 2020. 2021+ has Allison 10-speed shift TSBs resolved. |
+
+**Why 2021+ on the Sierra AT4 specifically:** The AT4 package only launched with the 4th generation (2020). First-year 2020 Allison 10-speed had shift calibration bugs — TSBs pushed for 2021+. A 2021–2022 AT4 hits the sweet spot: past first-year issues, depreciation has done its work, still under or recently out of powertrain warranty.
+
+---
+
+## The Recommendation
+
+**Use case:** Towing a travel trailer in retirement. Dispersed off-grid camping on forest roads. Long-term ownership. Needs to run 150,000+ miles with minimal drama.
+
+### First Choice: GMC Sierra 3500 AT4 (2021–2023 used, or new)
+
+This is the truck the research points to for the stated use case. It is the only 1-ton in this comparison that combines all four of the things that matter most:
+
+1. **CP3 injection pump** — no catastrophic fuel system risk, new or used
+2. **Allison 10L1000** — best towing transmission in the class
+3. **AT4 package** — the only factory off-road option on a 1-ton GM truck; DSSV suspension handles loaded forest roads better than any other 1-ton from the factory
+4. **Skid plates + DuraTrac tires** — engineered in, not bolted on aftermarket
+
+The tow rating gap vs. Ford (36K vs. 40K lbs) is irrelevant for a travel trailer in the 10,000–14,000 lb range. You will never use either number. The gap in reliability and ownership peace of mind over a 15–20 year retirement horizon is not irrelevant.
+
+**Target:** 2021–2022 used Sierra 3500 AT4 with L5P Duramax. Run VIN through NHTSA. Confirm Allison TCM software is current. Done.
+
+---
+
+### Budget Alternative: Ram 3500 Standard Output (2016–2018, Aisin)
+
+If the retirement budget needs capital elsewhere right now, the Ram 3500 SO is the legitimate second choice.
+
+- **Cummins I6 with CP3** — same "safe pump" status as the L5P Duramax
+- **Aisin AS69RC** — bulletproof 6-speed; arguably as durable as the Allison for this use case
+- **Significantly cheaper used** than a 2021+ Sierra AT4 — often $15,000–$25,000 less
+- **Strong resale** — Cummins reputation drives demand; you won't lose badly if you sell
+
+**The trade-off:** No factory off-road package. Add AT tires (~$1,200) and aftermarket skid plates (~$800–$1,200) and you're most of the way there mechanically for a fraction of the price difference.
+
+**Avoid on Ram:** Any HO trim from 2019 onward (CP4). Any 68RFE-equipped truck for heavy towing (prefer Aisin). Any truck without documented VGT actuator history.
+
+---
+
+### Eliminated
+
+| Truck | Why Eliminated |
+|---|---|
+| **Ford F-350** | CP4 on every year — no escape. Highest catastrophic failure cost in the segment. Fine truck with proper mitigation; wrong choice for "long-term retirement ownership with minimal drama." |
+| **Ram 3500 HO (2019+)** | CP4 pump. All the CP4 risk, less of the I6 simplicity advantage. |
+| **Any LML Duramax (2011–2016)** | CP4.2 — same failure mode as Ford. Eliminated unless CP3 conversion is documented. |
