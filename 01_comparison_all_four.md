@@ -94,8 +94,8 @@ All four trucks run full emissions equipment: DPF (diesel particulate filter), D
 | Feature | Ram 3500 | Ford F-350 | Chevy Silverado 3500 | GMC Sierra 3500 |
 |---|---|---|---|---|
 | **Dedicated off-road package** | Power Wagon (2500 only) | **Tremor** (F-350 available) | ZR2 (1500 only) | **AT4** (3500 available) |
-| **Skid plates** | Tremor/AT4/standard | Tremor: yes | Standard: partial | AT4: yes |
-| **Locking rear diff** | Standard on most 4x4 | Limited Slip standard; e-locker available | Available | Available (AT4) |
+| **Skid plates** | Optional (Protection Group pkg) — not standard | Tremor: yes | Not standard | AT4: yes |
+| **Locking rear diff** | **No factory locker** — anti-spin LSD standard (geared, not selectable) | Limited Slip standard; e-locker available | G80 auto-locker available | G80 auto-locker available (AT4) |
 | **Front locking diff** | Not standard | Not standard | Not standard | Not standard |
 | **Ground clearance** | Good | Good | Good | Good (AT4: better) |
 | **Off-road suspension** | Standard | Tremor: upgraded | Standard | AT4: Multimatic DSSV |
