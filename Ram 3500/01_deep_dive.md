@@ -41,15 +41,15 @@ Two output levels exist and the distinction matters enormously for used buying:
 
 The most desirable used Ram for buyers prioritizing pump safety. All Cummins in this generation use the CP3 injection pump. Both SO and HO.
 
-**2013:** New body. Cummins tuned to 350 hp / 650 lb-ft (SO) — lower than the previous gen due to emissions retuning.
+**2013:** New body. Cummins SO at **370 hp / 800 lb-ft** with 68RFE. HO introduced at 385 hp / 850 lb-ft with Aisin. Both use CP3. The 350 hp / 650 lb-ft numbers belong to the 2010–2012 generation — the 2013 redesign went up, not down.
 
-**2014–2015:** Reliability stabilizes. 2014 had some DEF system teething.
+**2014–2015:** Reliability stabilizes. 2014 had some DEF system teething. 2015 HO torque bumped to 865 lb-ft.
 
-**2016:** Mid-cycle refresh. Power bumped to 370 hp / 850 lb-ft (SO) and 385 hp / 900 lb-ft (HO). Significant improvement. Exhaust brake improved.
+**2016:** Mid-cycle refresh. SO stays at **370 hp / 800 lb-ft**. HO bumped to **385 hp / 900 lb-ft**. Exhaust brake improved. Note: SO torque did not increase in 2016 — the jump was in the HO only.
 
 **2017–2018:** Best years of the 4th gen. Most issues sorted. CP3 pump on all variants. Strong resale.
 
-> **Best 4th gen years:** 2016–2018 SO. The 2016 power bump is real and noticeable. These are the sweet spot for used buyers: CP3 pump, strong power, depreciation has hit.
+> **Best 4th gen years:** 2016–2018. Key insight: **both SO and HO use CP3 in the entire 4th gen**. If you want CP3 + Aisin transmission, buy the 4th gen HO (2013–2018) — not the SO. The SO is also safe (CP3) but comes with the weaker 68RFE.
 
 ### 3rd Generation (2010–2012)
 
@@ -132,7 +132,7 @@ The Ram 3500 has no dedicated factory off-road package (unlike the 2500 Power Wa
 - **Transfer case:** Selec-Trac 4x4 (standard) or 4-Lo
 - **Front axle:** Dana 60 (strong — commercial-grade)
 - **Rear axle:** AAM 11.5" (very strong)
-- **Limited slip** available in rear; electronic locker optional on some trims
+- **Anti-spin differential (geared LSD)** standard in rear on all Ram 3500 4x4 — **no factory electronic locker available on Ram 3500** (locker only exists on the 2500 Power Wagon)
 - **Ground clearance:** ~8.5" — adequate but not lifted
 - **Air suspension** (available on Laramie Longhorn/Limited): adjustable height — adds 2" raised height in Off-Road mode
 

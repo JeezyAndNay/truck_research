@@ -95,9 +95,9 @@ The F-350 Tremor is Ford's factory off-road answer for the 1-ton class. Availabl
 
 **What Tremor includes:**
 - Bilstein monotube off-road shock absorbers (factory-tuned)
-- 35" BFGoodrich All-Terrain KO2 tires (from factory)
+- Goodyear Wrangler DuraTrac LT285/75R18 tires (~35") from factory
 - Skid plates (transfer case, front differential, engine)
-- Electronic-locking front and rear differentials
+- **Electronic-locking rear differential** — Torsen limited-slip front differential (**no front locker**)
 - Raised suspension (+1" front, +0.5" rear vs. standard)
 - Orange tow hooks, Tremor-specific styling
 - Off-road trail control and rock crawl mode

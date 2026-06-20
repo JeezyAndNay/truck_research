@@ -121,9 +121,10 @@ The 5th-gen Ram 3500 (2013–2018 body) was well-developed by this point. Core i
 - **Failure mode:** Metal shrapnel contaminates injectors, fuel rails, fuel lines, and fuel tank
 - **Cost of failure:** $8,000–$20,000 for complete fuel system replacement
 - **NHTSA Investigation:** Opened. Multiple class-action lawsuits filed (similar to Ford CP4 suits).
-- **Ram issued a recall (2021):** NHTSA recall 21V064 — affected some 2019–2020 HO Ram 2500/3500 trucks. Remedy included a fuel contamination protection device (FASS-style or integrated filtration upgrade, depending on batch).
+- **Ram issued a recall (2021):** NHTSA recall 21V064 — affected 2019–2020 HO Ram 2500/3500 trucks (200,000+ vehicles). **Remedy was replacement of the CP4.2 with a CP3 pump** — not a filtration add-on. Ram replaced the whole pump.
+- **2021 and later:** Ram removed the CP4.2 from ALL Cummins trucks (SO and HO) for 2021 and reverted to CP3 across the board. 2025+ uses a new Bosch CP8 pump.
 
-> **Buying a used 2019–2020 Ram 3500 HO?** Confirm the recall remedy has been applied at dealer (VIN lookup at nhtsa.gov). If not applied — negotiate accordingly. Some buyers add a secondary diesel fuel filtration system as insurance regardless.
+> **Buying a used 2019–2020 Ram 3500 HO?** Confirm the recall (21V064) remedy has been applied at dealer — the CP4 should have been replaced with a CP3. VIN lookup at nhtsa.gov. If unverified, treat it as a CP4 truck and price accordingly. Buying 2021+ HO? It's back to CP3 — no CP4 risk.
 
 ### 🟡 First-Year 6th Gen Build Quality Issues *(2019)*
 - Some 2019s had interior fit/finish complaints and minor electronic gremlins as expected with a first-year body

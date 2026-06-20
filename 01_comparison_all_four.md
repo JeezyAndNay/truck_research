@@ -14,8 +14,10 @@ This is the single most important factor when buying a used diesel truck in this
 
 | Truck | Years | Pump | Risk |
 |---|---|---|---|
-| Ram 3500 Cummins (Standard Output) | All years | CP3 | ✅ Low — CP3 is robust |
-| Ram 3500 Cummins (High Output) | **2019–present** | CP4.2 | 🔴 High — CP4 failure contaminates entire fuel system |
+| Ram 3500 Cummins (Standard Output) | All years (2007.5–2024) | CP3 | ✅ Low — CP3 is robust |
+| Ram 3500 Cummins (High Output) | **2019–2020 only** | CP4.2 | 🔴 High — recalled; remedy was CP3 replacement. Verify recall complete on any 2019–2020. |
+| Ram 3500 Cummins (High Output) | **2021–2024** | CP3 | ✅ Low — Ram reverted ALL Cummins (SO and HO) back to CP3 for 2021+ |
+| Ram 3500 Cummins (all) | **2025+** | CP8 | ⚠️ New — Bosch CP8 pump; less field history. Too early to rate. |
 | Ford F-350 Power Stroke 6.7L | **2011–2019** | CP4.2 | 🔴 High — class action settlement filed |
 | Ford F-350 Power Stroke 6.7L | 2020–present | CP4.2 | 🔴 High — still CP4, Ford added fuel filter improvements |
 | Chevy/GMC Duramax LML | **2011–2016** | **CP4.2** | 🔴 High — same risk as Ford; CP3 conversion strongly advised |
@@ -137,7 +139,7 @@ All four trucks have similar maintenance costs when maintained properly. The dif
 
 | Truck | Buy Years | Avoid Years | Why |
 |---|---|---|---|
-| **Ram 3500 Cummins** | 2013–2018 (SO, CP3), 2022+ | 2019–2021 (early CP4 HO, teething) | SO = CP3 pump; HO post-2021 has better DEF system |
+| **Ram 3500 Cummins** | 2016–2018 HO (CP3 + Aisin), 2021–2024 (all CP3) | 2019–2020 HO (CP4, unless recall verified) | 4th gen HO = CP3 + Aisin — best of both. 5th gen 2021+ = all CP3 incl. HO. |
 | **Ford F-350** | 2017–2019 (before 2020 refresh but EGR sorted), 2020+ | 2011–2014 (EGR cooler, early 6.7 issues) | Post-2015 EGR cooler redesign resolved the main 6.7 failure mode |
 | **Chevy Silverado 3500** | 2017–2019 (L5P), 2022+ (new) | **2011–2016 (LML — CP4.2 pump, same risk as Ford)** | L5P = CP3 + stronger engine + better emissions. Avoid LML unless CP3 conversion done. |
 | **GMC Sierra 3500** | Same as Silverado — same platform | Same | AT4 only available 2020+ |
@@ -173,7 +175,7 @@ All four trucks are strong new. The differentiation at new:
 
 | Truck | Buy These Years | Avoid | Reason |
 |---|---|---|---|
-| **Ram 3500 SO** | 2016–2018 (Aisin preferred) | 2019–2021 HO | CP3, mature DEF system, Aisin is bulletproof. HO years carry CP4 risk. |
+| **Ram 3500** | 2016–2018 HO w/ Aisin (CP3 in 4th gen), OR 2021–2024 (all CP3) | 2019–2020 HO (CP4 unless recall confirmed) | 4th gen HO = CP3 + Aisin (best pairing). SO gets 68RFE not Aisin. 5th gen 2021+ all CP3. |
 | **Ford F-350** | 2017–2019 (with CP4 filtration installed) | 2011–2014 | EGR design improved post-2015. CP4 present all years — mitigation is non-negotiable. |
 | **Chevy Silverado 3500** | 2017–2019 L5P | 2011–2016 LML | CP3 returned in 2017. Avoid LML unless CP3 conversion is already done. |
 | **GMC Sierra 3500** | 2021–2023 AT4 | 2011–2016 LML | AT4 only exists from 2020. 2021+ has Allison 10-speed shift TSBs resolved. |
@@ -201,18 +203,20 @@ The tow rating gap vs. Ford (36K vs. 40K lbs) is irrelevant for a travel trailer
 
 ---
 
-### Budget Alternative: Ram 3500 Standard Output (2016–2018, Aisin)
+### Budget Alternative: Ram 3500 High Output (2016–2018, 4th Gen)
 
-If the retirement budget needs capital elsewhere right now, the Ram 3500 SO is the legitimate second choice.
+If the retirement budget needs capital elsewhere right now, the 4th gen Ram 3500 HO is the legitimate second choice. Key insight: **the 4th gen HO (2013–2018) uses CP3, not CP4** — that only changed in 2019. So you can get Cummins + CP3 + Aisin in a 2016–2018 HO.
 
 - **Cummins I6 with CP3** — same "safe pump" status as the L5P Duramax
 - **Aisin AS69RC** — bulletproof 6-speed; arguably as durable as the Allison for this use case
 - **Significantly cheaper used** than a 2021+ Sierra AT4 — often $15,000–$25,000 less
 - **Strong resale** — Cummins reputation drives demand; you won't lose badly if you sell
 
+**Note on SO vs. HO in 4th gen:** Both use CP3. The difference is transmission: SO gets the 68RFE (weaker under sustained tow load), HO gets the Aisin (excellent). If buying a 4th gen Ram for heavy towing, target the HO — you get CP3 AND Aisin. There is no scenario where the SO gets an Aisin; that pairing doesn't exist.
+
 **The trade-off:** No factory off-road package. Add AT tires (~$1,200) and aftermarket skid plates (~$800–$1,200) and you're most of the way there mechanically for a fraction of the price difference.
 
-**Avoid on Ram:** Any HO trim from 2019 onward (CP4). Any 68RFE-equipped truck for heavy towing (prefer Aisin). Any truck without documented VGT actuator history.
+**Avoid on Ram:** Any 2019–2020 HO without confirmed recall (CP4 recall replaced the pump with CP3 — verify at nhtsa.gov). Any 68RFE truck for heavy sustained towing. Document VGT actuator history on any used Cummins.
 
 ---
 
