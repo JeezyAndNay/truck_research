@@ -28,8 +28,10 @@ PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8081
 
 TRUCK_ORDER = ["Ram 3500", "Ford F-350", "Chevy Silverado 3500", "GMC Sierra 3500"]
 
-# logo.dev publishable key — get yours free at https://logo.dev/signup
-LOGO_DEV_TOKEN = "pk_YOUR_TOKEN_HERE"
+# logo.dev publishable key — set via env var (never hardcode in source)
+# Usage: LOGO_DEV_TOKEN=pk_xxx python3 app.py
+# Get your free key at https://logo.dev/signup
+LOGO_DEV_TOKEN = os.environ.get("LOGO_DEV_TOKEN", "")
 
 TRUCK_COLORS = {
     "Overview":             "#58a6ff",
