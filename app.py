@@ -28,9 +28,17 @@ PORT = int(sys.argv[2]) if len(sys.argv) > 2 else 8081
 
 TRUCK_ORDER = ["Ram 3500", "Ford F-350", "Chevy Silverado 3500", "GMC Sierra 3500"]
 
-# logo.dev publishable key — set via env var (never hardcode in source)
-# Usage: LOGO_DEV_TOKEN=pk_xxx python3 app.py
-# Get your free key at https://logo.dev/signup
+# logo.dev publishable key — loaded from .env file or environment variable
+# Create a .env file in the repo root with: LOGO_DEV_TOKEN=pk_xxx
+# .env is gitignored and never committed
+_env_file = Path(__file__).parent / ".env"
+if _env_file.exists():
+    for _line in _env_file.read_text().splitlines():
+        _line = _line.strip()
+        if _line and not _line.startswith("#") and "=" in _line:
+            _k, _v = _line.split("=", 1)
+            os.environ.setdefault(_k.strip(), _v.strip())
+
 LOGO_DEV_TOKEN = os.environ.get("LOGO_DEV_TOKEN", "")
 
 TRUCK_COLORS = {
