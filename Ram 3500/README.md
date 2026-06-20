@@ -7,7 +7,7 @@ The Ram 3500 with the 6.7L Cummins is the torque king of the 1-ton class. The in
 - **Max tow:** 37,090 lbs (conventional)
 - **Torque:** 1,075 lb-ft (HO) / 850 lb-ft (SO)
 - **Transmission:** Aisin AS69RC (HO) or 68RFE (SO)
-- **Injection pump:** CP4.2 (HO 2019+) / CP3 (SO — all years)
+- **Injection pump:** CP3 (all 2007.5–2018) / CP4.2 (SO + HO 2019–2020) / CP3 (all 2021+)
 
 ## Files
 - [Deep Dive](01_deep_dive.md)

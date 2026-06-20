@@ -423,6 +423,24 @@ async function openDoc(path, name, btn, color) {
     const r = await fetch('/api/file?p=' + encodeURIComponent(path));
     if (!r.ok) throw new Error();
     md.innerHTML = marked.parse(await r.text());
+    // Wire up internal .md links so they navigate within the SPA
+    // (marked.js renders them as bare hrefs — clicking would 404 the server)
+    const dir = path.includes('/') ? path.replace(/\/[^/]+$/, '') + '/' : '';
+    md.querySelectorAll('a[href]').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && !href.startsWith('http') && !href.startsWith('#') && href.endsWith('.md')) {
+        a.style.cursor = 'pointer';
+        a.addEventListener('click', e => {
+          e.preventDefault();
+          const resolved = dir + href;
+          const target = [...document.querySelectorAll('.nav-btn')].find(b => b.dataset.path === resolved);
+          if (target) target.click();
+        });
+      } else if (href && (href.startsWith('http://') || href.startsWith('https://'))) {
+        a.setAttribute('target', '_blank');
+        a.setAttribute('rel', 'noopener noreferrer');
+      }
+    });
     document.getElementById('scroll').scrollTop = 0;
   } catch {
     md.innerHTML = '<p style="color:#f85149">Failed to load document.</p>';
