@@ -101,6 +101,7 @@ def doc_type(stem: str) -> str:
     if "towing"     in s:     return "tow"
     if "maintenance" in s:    return "maint"
     if "product"    in s:     return "products"
+    if "checklist"  in s:     return "checklist"
     return ""
 
 LABELS = {
@@ -113,6 +114,7 @@ LABELS = {
     "03_towing_data":                "Towing Data & Ratings",
     "04_maintenance_schedule":       "Maintenance Schedule",
     "05_product_list":               "Product List",
+    "06_pre_purchase_checklist":     "Pre-Purchase Checklist",
 }
 
 def label(path: Path) -> str:
@@ -227,9 +229,10 @@ body{display:flex;height:100vh;font:14px/1.5 -apple-system,BlinkMacSystemFont,"S
 .b-issues  {background:#4a1500;color:#ffa040}
 .b-tow     {background:#0a2a1a;color:#56d364}
 .b-maint   {background:#1a1a0a;color:#e8b004}
-.b-products{background:#0d2040;color:#58a6ff}
-.b-compare {background:#0a2828;color:#39c9bb}
-.b-index   {background:#202020;color:#8b949e}
+.b-products  {background:#0d2040;color:#58a6ff}
+.b-checklist {background:#1a0a2e;color:#c084fc}
+.b-compare   {background:#0a2828;color:#39c9bb}
+.b-index     {background:#202020;color:#8b949e}
 
 /* ── external links ── */
 .link-icons{display:flex;gap:5px;padding-right:2px;flex-shrink:0}
@@ -385,8 +388,9 @@ async function loadTree() {
           : file.badge === 'issues'   ? 'Issues'
           : file.badge === 'tow'      ? 'Towing'
           : file.badge === 'maint'    ? 'Maint'
-          : file.badge === 'products' ? 'Products'
-          : file.badge === 'compare'  ? 'Compare'
+          : file.badge === 'products'  ? 'Products'
+          : file.badge === 'checklist' ? 'Checklist'
+          : file.badge === 'compare'   ? 'Compare'
           : file.badge === 'index'    ? 'Index'
           : file.badge;
         btn.appendChild(badge);
@@ -423,6 +427,48 @@ async function openDoc(path, name, btn, color) {
     const r = await fetch('/api/file?p=' + encodeURIComponent(path));
     if (!r.ok) throw new Error();
     md.innerHTML = marked.parse(await r.text());
+
+    // Make checkboxes interactive (marked.js renders them disabled by default)
+    const checkboxes = md.querySelectorAll('input[type="checkbox"]');
+    if (checkboxes.length > 0) {
+      checkboxes.forEach(cb => {
+        cb.removeAttribute('disabled');
+        cb.style.cursor = 'pointer';
+        cb.style.width = '15px';
+        cb.style.height = '15px';
+        cb.style.flexShrink = '0';
+      });
+      // Add a Reset + progress bar at the top
+      const bar = document.createElement('div');
+      bar.style.cssText = 'display:flex;align-items:center;gap:10px;margin-bottom:20px;padding:10px 14px;background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:6px;';
+
+      const prog = document.createElement('span');
+      prog.style.cssText = 'font-size:12px;color:var(--muted);flex:1;';
+      const updateProg = () => {
+        const total = md.querySelectorAll('input[type="checkbox"]').length;
+        const done  = md.querySelectorAll('input[type="checkbox"]:checked').length;
+        const pct   = total ? Math.round(done / total * 100) : 0;
+        prog.textContent = `${done} / ${total} checked  (${pct}%)`;
+        prog.style.color = pct === 100 ? '#56d364' : 'var(--muted)';
+      };
+      updateProg();
+      checkboxes.forEach(cb => cb.addEventListener('change', updateProg));
+
+      const resetBtn = document.createElement('button');
+      resetBtn.textContent = '↺ Reset';
+      resetBtn.style.cssText = 'padding:4px 12px;background:transparent;border:1px solid var(--border);color:var(--muted);border-radius:4px;cursor:pointer;font-size:12px;';
+      resetBtn.onmouseover = () => { resetBtn.style.borderColor = 'var(--muted)'; resetBtn.style.color = 'var(--text)'; };
+      resetBtn.onmouseout  = () => { resetBtn.style.borderColor = 'var(--border)'; resetBtn.style.color = 'var(--muted)'; };
+      resetBtn.onclick = () => {
+        md.querySelectorAll('input[type="checkbox"]').forEach(cb => cb.checked = false);
+        updateProg();
+      };
+
+      bar.appendChild(prog);
+      bar.appendChild(resetBtn);
+      md.insertBefore(bar, md.firstChild);
+    }
+
     // Wire up internal .md links so they navigate within the SPA
     // (marked.js renders them as bare hrefs — clicking would 404 the server)
     const dir = path.includes('/') ? path.replace(/\/[^/]+$/, '') + '/' : '';
