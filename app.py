@@ -431,6 +431,8 @@ if __name__ == "__main__":
     print(f"\n  Truck Research Viewer")
     print(f"  Repo : {REPO}")
     print(f"  URL  : http://localhost:{PORT}")
+    token_status = f"loaded ({LOGO_DEV_TOKEN[:8]}...)" if LOGO_DEV_TOKEN else "NOT SET — logos will not load"
+    print(f"  Logo : {token_status}")
     print(f"  Stop : Ctrl+C\n")
     try:
         HTTPServer(("", PORT), Handler).serve_forever()
