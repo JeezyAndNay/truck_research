@@ -52,7 +52,7 @@ TRUCK_COLORS = {
 # External links per truck — update URLs as needed.
 TRUCK_LINKS = {
     "Ram 3500": {
-        "logo":   f"https://img.logo.dev/ramtrucks.com?token={LOGO_DEV_TOKEN}",
+        "logo":   "https://logos-world.net/wp-content/uploads/2022/03/RAM-Logo.png",
         "site":   {"label": "Ram 3500",       "url": "https://www.ramtrucks.com/ram-3500.html"},
         "models": [
             {"label": "2019–2025 (5th Gen)", "url": "https://www.ramtrucks.com/ram-3500.html"},
@@ -61,7 +61,7 @@ TRUCK_LINKS = {
         "forum":  {"label": "Ram Forum",      "url": "https://www.ramforumz.com/"},
     },
     "Ford F-350": {
-        "logo":   f"https://img.logo.dev/ford.com?token={LOGO_DEV_TOKEN}",
+        "logo":   "https://cdn.freebiesupply.com/logos/large/2x/ford-truck-logo-svg-vector.svg",
         "site":   {"label": "F-350 Super Duty", "url": "https://www.ford.com/trucks/super-duty/models/f350/"},
         "models": [
             {"label": "2020–2025 (5th Gen)", "url": "https://www.ford.com/trucks/super-duty/models/f350/"},
@@ -71,7 +71,7 @@ TRUCK_LINKS = {
         "forum":  {"label": "Ford Truck Forum", "url": "https://www.ford-trucks.com/forums/"},
     },
     "Chevy Silverado 3500": {
-        "logo":   f"https://img.logo.dev/chevrolet.com?token={LOGO_DEV_TOKEN}",
+        "logo":   "https://static.cdnlogo.com/logos/c/71/chevy-truck.svg",
         "site":   {"label": "Silverado HD",   "url": "https://www.chevrolet.com/trucks/silverado/silverado-hd"},
         "models": [
             {"label": "2020–2025 (4th Gen)", "url": "https://www.chevrolet.com/trucks/silverado/silverado-hd"},
@@ -80,7 +80,7 @@ TRUCK_LINKS = {
         "forum":  {"label": "GM-Trucks Forum", "url": "https://www.gm-trucks.com/forums/"},
     },
     "GMC Sierra 3500": {
-        "logo":   f"https://img.logo.dev/gmc.com?token={LOGO_DEV_TOKEN}",
+        "logo":   "https://di-uploads-pod43.dealerinspire.com/starlingbuickgmcofstuart/uploads/2024/03/GMC-Logo-2.jpg",
         "site":   {"label": "Sierra HD",      "url": "https://www.gmc.com/trucks/sierra/sierra-hd"},
         "models": [
             {"label": "2020–2025 AT4 (4th Gen)", "url": "https://www.gmc.com/trucks/sierra/sierra-hd/models/3500hd-at4"},
