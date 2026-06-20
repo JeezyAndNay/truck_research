@@ -139,7 +139,7 @@ All four trucks have similar maintenance costs when maintained properly. The dif
 
 | Truck | Buy Years | Avoid Years | Why |
 |---|---|---|---|
-| **Ram 3500 Cummins** | 2016–2018 HO (CP3 + Aisin), 2021–2024 (all CP3) | 2019–2020 HO (CP4, unless recall verified) | 4th gen HO = CP3 + Aisin — best of both. 5th gen 2021+ = all CP3 incl. HO. |
+| **Ram 3500 Cummins** | 2016–2018 HO (CP3 + Aisin), 2021–2024 (all CP3) | 2019–2020 (SO + HO — **both** had CP4; verify recall on any 2019–2020) | 4th gen HO = CP3 + Aisin — best of both. 5th gen 2021+ = all CP3 incl. HO. |
 | **Ford F-350** | 2017–2019 (before 2020 refresh but EGR sorted), 2020+ | 2011–2014 (EGR cooler, early 6.7 issues) | Post-2015 EGR cooler redesign resolved the main 6.7 failure mode |
 | **Chevy Silverado 3500** | 2017–2019 (L5P), 2022+ (new) | **2011–2016 (LML — CP4.2 pump, same risk as Ford)** | L5P = CP3 + stronger engine + better emissions. Avoid LML unless CP3 conversion done. |
 | **GMC Sierra 3500** | Same as Silverado — same platform | Same | AT4 only available 2020+ |
@@ -147,7 +147,7 @@ All four trucks have similar maintenance costs when maintained properly. The dif
 ### New Truck Consideration (2024/2025)
 
 All four trucks are strong new. The differentiation at new:
-- **Ram 3500**: Buy Standard Output if CP4 concerns you (CP3 pump). HO is available with the CP4; weigh the added performance vs. risk
+- **Ram 3500**: Both SO and HO use CP3 on 2024 models — Ram reverted all Cummins back to CP3 in 2021 (2025+ uses the new CP8 pump with limited field history). For used trucks, avoid 2019–2020 (both SO + HO had CP4 that year)
 - **Ford F-350**: Strong warranty support, highest tow ratings, Tremor available
 - **Chevy/GMC**: AT4 (GMC) is the only 3500 with a factory off-road package; CP3 pump on all; Allison transmission
 
@@ -164,10 +164,10 @@ All four trucks are strong new. The differentiation at new:
 | **Safest injection pump** | Chevy/GMC L5P (2017+) | CP3 on L5P — LML (2011–2016) has CP4, same risk as Ford |
 | **Best transmission** | Chevy/GMC | Allison — not even close |
 | **Best off-road (3500)** | GMC Sierra AT4 | Only 3500 with factory off-road package |
-| **Best used buy (safety)** | Ram 3500 SO (2013–2018) | CP3 pump, legendary Cummins, strong resale |
+| **Best used buy (safety)** | Ram 3500 4th gen (2013–2018) | CP3 on both SO and HO — legendary Cummins, strong resale |
 | **Best all-around new** | GMC Sierra 3500 AT4 | Duramax + Allison + CP3 + off-road package |
 
-> **The community says it plainly:** For pure towing performance, Ram Cummins wins on torque feel. For reliability and worry-free ownership — especially used — the Duramax/Allison combination in Chevy/GMC is the most defensible choice. The CP4 pump risk is real, documented, and expensive when it fails. If you buy a Ford or Ram HO, budget for CP4 mitigation from day one.
+> **The community says it plainly:** For pure towing performance, Ram Cummins wins on torque feel. For reliability and worry-free ownership — especially used — the Duramax/Allison combination in Chevy/GMC is the most defensible choice. The CP4 pump risk is real, documented, and expensive when it fails. If you buy any Ford diesel (all years) or a Ram from 2019–2020 (both SO and HO had CP4 that year), budget for CP4 mitigation from day one.
 
 ---
 
@@ -175,7 +175,7 @@ All four trucks are strong new. The differentiation at new:
 
 | Truck | Buy These Years | Avoid | Reason |
 |---|---|---|---|
-| **Ram 3500** | 2016–2018 HO w/ Aisin (CP3 in 4th gen), OR 2021–2024 (all CP3) | 2019–2020 HO (CP4 unless recall confirmed) | 4th gen HO = CP3 + Aisin (best pairing). SO gets 68RFE not Aisin. 5th gen 2021+ all CP3. |
+| **Ram 3500** | 2016–2018 HO w/ Aisin (CP3 in 4th gen), OR 2021–2024 (all CP3) | 2019–2020 (SO + HO — both had CP4; verify recall on any 2019–2020) | 4th gen HO = CP3 + Aisin (best pairing). SO gets 68RFE not Aisin. 5th gen 2021+ all CP3. |
 | **Ford F-350** | 2017–2019 (with CP4 filtration installed) | 2011–2014 | EGR design improved post-2015. CP4 present all years — mitigation is non-negotiable. |
 | **Chevy Silverado 3500** | 2017–2019 L5P | 2011–2016 LML | CP3 returned in 2017. Avoid LML unless CP3 conversion is already done. |
 | **GMC Sierra 3500** | 2021–2023 AT4 | 2011–2016 LML | AT4 only exists from 2020. 2021+ has Allison 10-speed shift TSBs resolved. |
@@ -216,7 +216,7 @@ If the retirement budget needs capital elsewhere right now, the 4th gen Ram 3500
 
 **The trade-off:** No factory off-road package. Add AT tires (~$1,200) and aftermarket skid plates (~$800–$1,200) and you're most of the way there mechanically for a fraction of the price difference.
 
-**Avoid on Ram:** Any 2019–2020 HO without confirmed recall (CP4 recall replaced the pump with CP3 — verify at nhtsa.gov). Any 68RFE truck for heavy sustained towing. Document VGT actuator history on any used Cummins.
+**Avoid on Ram:** Any 2019–2020 truck (SO or HO — both had CP4) without confirmed recall completion (CP4 recall replaced the pump with CP3 — verify at nhtsa.gov). Any 68RFE truck for heavy sustained towing. Document VGT actuator history on any used Cummins.
 
 ---
 
